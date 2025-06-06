@@ -18,11 +18,17 @@ Here is AI-Camera that uses Jetson Orin Nano.
 
 ## Here is PCBA tests:
 
-<img width="391" alt="pcba" src="https://github.com/user-attachments/assets/1360fb69-228d-49a6-8b7e-0adc09cbd06b" />
+<img width="364" alt="pcba" src="https://github.com/user-attachments/assets/16e3d5e8-dc8c-4285-ba94-be4f7e0dc0a1" />
 
 ## Here is all system:
 
 <img width="681" alt="Final" src="https://github.com/user-attachments/assets/0ee4b7f1-41d6-4dc3-b38c-20305b6b9ff5" />
+
+(jetson module added)
+
+<img width="299" alt="camera" src="https://github.com/user-attachments/assets/e2dda542-3bf0-4f0c-8d11-fd6531566fe9" />
+
+(Camera added)
 
 Ceyhun Pempeci
 
