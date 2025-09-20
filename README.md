@@ -28,7 +28,12 @@ Here is AI-Camera that uses Jetson Orin Nano.
 
 <img width="299" alt="camera" src="https://github.com/user-attachments/assets/e2dda542-3bf0-4f0c-8d11-fd6531566fe9" />
 
-(Camera added)
+(Single Camera)
+
+<img width="512" height="573" alt="omni vision" src="https://github.com/user-attachments/assets/66422aff-0ecf-4571-89e8-9a4f70fb59a6" />
+
+(Dual Camera)
+
 
 Ceyhun Pempeci
 
